@@ -1,6 +1,4 @@
-## Welcome to Schoollife
-
-
+(h1) Welcome to Schoollife
 
 
 
